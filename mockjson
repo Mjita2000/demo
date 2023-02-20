@@ -1,0 +1,235 @@
+{
+"companies": [
+
+      new Company (
+        1,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+
+      new Company (
+        2,
+        'SWA',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Lawrence', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        3,
+        'Wild Horizon',
+        'systems@wildhorizon.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'supplier'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        4,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        5,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        6,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        7,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        8,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        9,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        10,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        11,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        12,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        13,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        14,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+      new Company (
+        15,
+        'Shearwater Adventures',
+        'systems@shearwatervf.com',
+        new Contact(1, 'Thamu', '0772478571', '0774126840', '12131 Nkust', 'thamiendlovu00@gmail.com'),
+
+        new Country(1, 'Zimababwe'),
+        new Type(1, 'Not Agent'),
+        'notes',
+        'APT #4',
+        '0778121314',
+
+        'Vic Falls',
+
+      ),
+
+    ],
+
+
+
+}
